@@ -1,5 +1,9 @@
 {
   "name": "simple-contenteditable",
+  "keywords": [
+    "contenteditable",
+    "react"
+  ],
   "version": "1.0.2",
   "description": "Tiny React component to for state-driven contenteditable",
   "main": "index.js",
